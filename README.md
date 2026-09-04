@@ -9,8 +9,8 @@ Modern one-page personal portfolio for internship applications.
 - Instagram: @giscktavia__
 
 ### Project photos included
-- `assets/profile.jpg` — profile photo
-- `assets/iot-house.jpg` + `assets/iot-system.jpg` — Smart Plant Watering System
-- `assets/webgis-home.jpg` + `assets/webgis-dashboard.jpg` + `assets/webgis-code.jpg` — WebGIS Social Assistance
-- `assets/artify-gallery.jpg` + `assets/artify-alpha.jpg` — Gisckart Studio / image editing
-- `assets/ai-placeholder.svg` — temporary visual for the AI Technician Assistant project until its screenshots are available
+- `profile.jpg` — profile photo
+- `iot-house.jpg` + `iot-system.jpg` — Smart Plant Watering System
+- `webgis-home.jpg` + `webgis-dashboard.jpg` + `webgis-code.jpg` — WebGIS Social Assistance
+- `artify-gallery.jpg` + `artify-alpha.jpg` — Gisckart Studio / image editing
+- `ai-placeholder.svg` — temporary visual for the AI Technician Assistant project until its screenshots are available
